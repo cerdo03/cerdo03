@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cerdo03](https://github.com/cerdo03)
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **surya.shukla.19041@iitgoa.ac.in**
 
