@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Surya Shukla</h1>
-<h3 align="center">Keen Learner of Machine Learning and Data Science</h3>
+<h3 align="center">Keen Learner of Machine Learning and Android Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cerdo03&label=Profile%20views&color=0e75b6&style=flat" alt="cerdo03" /> </p>
 
-- 🔭 I’m currently working on **LDA and Machine Learning projects**
+- 🔭 I’m currently working on **Android Development Projects**
 
 - 🌱 I’m currently learning **Android Development**
 
