@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👯 I’m looking to collaborate on **Machine learning and Data Science projects**
+- 👯 I’m looking to collaborate on **Android Development and Machine Learning projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cerdo03](https://github.com/cerdo03)
 
