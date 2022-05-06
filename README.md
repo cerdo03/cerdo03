@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cerdo03&label=Profile%20views&color=0e75b6&style=flat" alt="cerdo03" /> </p>
 
-- 🔭 I’m currently working on **Android Development Projects**
+- 🔭 I’m currently working on **Machine Learning and Android Development Projects**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Natural Language Processing and Android Development**
 
 - 👯 I’m looking to collaborate on **Android Development and Machine Learning projects**
 
