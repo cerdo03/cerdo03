@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Backend development using Express js**
 
-- 🌱 I’m currently learning **Natural Language Processing and Backend development**
+- 🌱 I’m currently learning **Machine Learning and Backend development**
 
 - 👯 I’m looking to collaborate on **Android Development and Machine Learning projects**
 
