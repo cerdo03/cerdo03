@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cerdo03&label=Profile%20views&color=0e75b6&style=flat" alt="cerdo03" /> </p>
 
-- 🔭 I’m currently working on **exploring new technologies**
+- 🔭 I’m currently working on **Backend development using Express js**
 
 - 🌱 I’m currently learning **Natural Language Processing and Backend development**
 
