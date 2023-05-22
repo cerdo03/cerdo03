@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Surya Shukla</h1>
-<h3 align="center">Keen Learner of Machine Learning and Android Development</h3>
+<h3 align="center">Software Engineer | IIT Goa Alumini</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cerdo03&label=Profile%20views&color=0e75b6&style=flat" alt="cerdo03" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning and Android Development Projects**
+- 🔭 I’m currently working on **exploring new technologies**
 
-- 🌱 I’m currently learning **Natural Language Processing and Android Development**
+- 🌱 I’m currently learning **Natural Language Processing and Backend development**
 
 - 👯 I’m looking to collaborate on **Android Development and Machine Learning projects**
 
