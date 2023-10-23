@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Machine Learning and Android Development**
 
-- 📫 How to reach me **surya.shukla.19041@iitgoa.ac.in**
+- 📫 How to reach me **official.surya3jan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
