@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cerdo03&label=Profile%20views&color=0e75b6&style=flat" alt="cerdo03" /> </p>
 
-- 🔭 I’m currently working on **Backend development using Express js**
+- 🔭 I’m currently working on **Backend development**
 
-- 🌱 I’m currently learning **Machine Learning and Backend development**
-
-- 👯 I’m looking to collaborate on **Android Development and Machine Learning projects**
+- 🌱 I’m currently learning **Backend development and Scalable systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cerdo03](https://github.com/cerdo03)
 
-- 💬 Ask me about **Machine Learning and Android Development**
+- 💬 Ask me about **Full-Stack Development, Android Development**
 
 - 📫 How to reach me **official.surya3jan@gmail.com**
 
